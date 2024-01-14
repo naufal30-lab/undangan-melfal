@@ -482,7 +482,7 @@ footer li{
 /* Mobile */
 @media (max-width: 576px){
     html{
-        font-size: 40%;
+        font-size: 55%;
     }
 
     .simply-countdown>.simply-section{
